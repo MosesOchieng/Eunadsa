@@ -79,10 +79,10 @@
                 <div class="col-eight home-content__text pull-right">
                     <h3>Welcome TO Egerton University Nutrition and Dietetics  Students Association</h3>
 
-                    <h1>
+                    <h1 style="font;italic:">
                     Human Nutrition ~  <br>
                     Health Science <br> Egerton University.
-                    </h1 style="font;italic:">
+                    </h1>
                    Type in your  staff mail or student mail to access EUNADSA Home page.
                    <br>
                  EUNADSA a great family that works together.
